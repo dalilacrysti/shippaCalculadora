@@ -8,7 +8,7 @@ import android.view.ViewDebug;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+class calculadora extends AppCompatActivity {
 
     final Double precoSalgado = 3.8;
 
